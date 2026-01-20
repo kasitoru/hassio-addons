@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.95
+- Fixed libicu error
 ## 0.94
 - Merged pull request for [issue5](https://github.com/ljsquare/hassio-addons/issues/5)
 ## 0.93
