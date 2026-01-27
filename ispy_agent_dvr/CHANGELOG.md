@@ -1,6 +1,6 @@
 # Changelog
 
-## 7170.0
+## 0.96-agent7.1.7.0
 - Changed version numbering
 - Using local distributions
 - Other small changes
