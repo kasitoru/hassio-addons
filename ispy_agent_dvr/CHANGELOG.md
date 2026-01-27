@@ -1,23 +1,11 @@
 # Changelog
 
+## 7170.0
+- Changed version numbering
+- Using local distributions
+- Other small changes
 ## 0.95
 - Fixed libicu error
-## 0.94
-- Merged pull request for [issue5](https://github.com/ljsquare/hassio-addons/issues/5)
-## 0.93
-- Solved [issue4](https://github.com/ljsquare/hassio-addons/issues/4)
-## 0.92
-- Bugfix
-## 0.91
-- Bugfix
-## 0.9
-- override for default folder
-## 0.8
-- add configuration options
-- add translations
-- prepare for future option (default folder)
-## 0.7
-- updated ispy agent to latest version
-- add changelog and icon/logo
-## 0.6
-- first public version
+- Added support for the aarch64 architecture
+## Older versions
+- [https://github.com/ljsquare/hassio-addons/blob/main/ispy_agent_dvr/CHANGELOG.md](https://github.com/ljsquare/hassio-addons/blob/main/ispy_agent_dvr/CHANGELOG.md)
