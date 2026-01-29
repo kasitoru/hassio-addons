@@ -1,9 +1,9 @@
 # Changelog
 
 ## 0.97-agent7.1.9.0
-- Updated iSpy Agent DVR to version 7.1.9.0
+- Updated iSpy Agent DVR to version [7.1.9.0](https://www.ispyconnect.com/producthistory.aspx?productid=27)
 ## 0.97-agent7.1.8.0
-- Updated iSpy Agent DVR to version 7.1.8.0
+- Updated iSpy Agent DVR to version [7.1.8.0](https://www.ispyconnect.com/producthistory.aspx?productid=27)
 - Removed forced TZ setting inside the container
 ## 0.96-agent7.1.7.0
 - Changed version numbering
