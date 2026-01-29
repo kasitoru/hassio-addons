@@ -11,11 +11,11 @@ COPY downloads /agent/downloads
 RUN set -eux; \
 	case "$BUILD_ARCH" in \
     amd64) \
-		AGENT_ZIP="Agent_Linux64_7_1_8_0.zip"; \
+		AGENT_ZIP="Agent_Linux64_7_1_9_0.zip"; \
 		FFMPEG_TAR="ffmpeg7-linuxx64.tar.xz" \
         ;; \
     aarch64) \
-		AGENT_ZIP="Agent_LinuxARM64_7_1_8_0.zip"; \
+		AGENT_ZIP="Agent_LinuxARM64_7_1_9_0.zip"; \
 		FFMPEG_TAR="ffmpeg7-linuxarm64.tar.xz" \
         ;; \
     esac; \
