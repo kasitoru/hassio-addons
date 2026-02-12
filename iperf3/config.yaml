@@ -1,0 +1,16 @@
+name: "Iperf3"
+version: "1.0.0"
+slug: "iperf3"
+description: "Is a tool for network performance measurement and tuning"
+arch:
+  - armhf
+  - armv7
+  - aarch64
+  - amd64
+  - i386
+url: "https://github.com/kasitoru/hassio-addons/tree/main/iperf3"
+startup: initialize
+ports:
+  5201/tcp: 5201
+  5201/udp: 5201
+watchdog: tcp://[HOST]:[PORT:5201]
