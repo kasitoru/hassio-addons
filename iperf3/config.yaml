@@ -1,5 +1,5 @@
 name: "Iperf3"
-version: "1.0.0"
+version: "1.0.1"
 slug: "iperf3"
 description: "Is a tool for network performance measurement and tuning"
 arch:
@@ -10,6 +10,7 @@ arch:
   - i386
 url: "https://github.com/kasitoru/hassio-addons/tree/main/iperf3"
 startup: initialize
+init: false
 ports:
   5201/tcp: 5201
   5201/udp: 5201
