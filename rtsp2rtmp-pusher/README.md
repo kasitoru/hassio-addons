@@ -1,6 +1,6 @@
 # RTSP to RTMP Pusher
 
-[![Donate](https://img.shields.io/badge/donate-Yandex-red.svg)](https://money.yandex.ru/to/4100110221014297)
+[![Donate](https://img.shields.io/badge/donate-YooMoney-blueviolet.svg)](https://yoomoney.ru/to/4100110221014297)
 
 Pushing the RTSP stream to the RTMP server.
 
