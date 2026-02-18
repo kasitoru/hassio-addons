@@ -1,7 +1,7 @@
 name: megad-updater
 version: v0.3.4
 slug: megad-updater
-description: update megad
+description: Firmware update tool for MegaD-2561
 arch:
   - amd64
   - aarch64
