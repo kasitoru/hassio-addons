@@ -1,0 +1,24 @@
+name: megad-updater
+version: v0.3.4
+slug: megad-updater
+description: update megad
+arch:
+  - amd64
+  - aarch64
+startup: application
+boot: manual
+options:
+  hosts:
+   - ip: 192.168.0.14
+     password: sec
+schema:
+  localip: str?
+  hosts:
+    - ip: str
+      password: str
+      options: str?
+
+host_network: true
+url: https://github.com/kasitoru/hassio-addons/tree/main/mega-updater
+map:
+  - backup:rw

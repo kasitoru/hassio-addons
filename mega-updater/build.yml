@@ -1,0 +1,3 @@
+build_from:
+  amd64: amd64/php:7.4-alpine
+  aarch64: arm64v8/php:7.4-alpine
