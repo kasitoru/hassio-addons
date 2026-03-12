@@ -1,5 +1,7 @@
 # Changelog
 
+## 0.97-agent7.2.5.0
+- Updated iSpy Agent DVR to version [7.2.5.0](https://www.ispyconnect.com/producthistory.aspx?productid=27)
 ## 0.97-agent7.1.9.0
 - Updated iSpy Agent DVR to version [7.1.9.0](https://www.ispyconnect.com/producthistory.aspx?productid=27)
 ## 0.97-agent7.1.8.0
