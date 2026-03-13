@@ -1,13 +1,14 @@
 name: "iSpy Agent DVR"
-version: 0.97-agent7.2.5.0
+version: 7.2.5.0-1
 slug: ispy_agent_dvr
-apparmor: true
 description: "iSpy is the world’s most popular open source video surveillance application. It's compatible with the the vast majority of consumer webcams and IP cameras."
 arch:
   - amd64
   - aarch64
 map:
   - share:rw
+ingress: true
+ingress_port: 8090
 url: "https://github.com/kasitoru/hassio-addons/tree/main/ispy_agent_dvr"
 ports:
   8090/tcp: 8090
